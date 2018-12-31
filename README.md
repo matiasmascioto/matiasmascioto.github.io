@@ -16,6 +16,13 @@ Compilation of personal projects
 
 This project cleans a dataset with information about argentinian soccer players around the world. The original dataset is an Excel file, with dirty and unnormalized data. Wrangling this data generates a cleaner and more easily workable dataset (in .csv).
 
+### sysarmy Salary Surveys *(Data Wrangling)*
+[GitHub](https://github.com/matiasmascioto/sysarmy_sueldos_wrangling)
+
+*keywords: data wrangling, python, jupyter notebook, pandas, excel, csv*
+
+This project cleans and concatenates the results of IT salary surveys made by sysarmy in South America.
+
 ## Contact
 *  Mail: matiasmascioto@hotmail.com
 *  [LinkedIn](https://www.linkedin.com/in/juan-matias-mascioto/)
