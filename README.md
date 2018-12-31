@@ -4,7 +4,7 @@
 *  Computer Engineer (UNLP, Argentina)
 *  Aspiring Data Scientist
 *  Interests: Machine Learning, Sports Analytics, Blockchain.
-*  Love football! :soccer:
+*  Love football!
 
 ## Portfolio
 Compilation of personal projects
