@@ -23,7 +23,7 @@ This project cleans a dataset with information about argentinian soccer players 
 
 This project cleans and concatenates the results of IT salary surveys made by sysarmy in South America.
 
-### RoboCupSimData *(Data Visualization)*
+### RoboCupSimData *(Plotting)*
 [GitHub](https://github.com/matiasmascioto/robocupsimdata_plotting)
 
 *keywords: python, jupyter notebook, pandas, matplotlib, soccer, robocup, robocupsimdata, spatiotemporal*
