@@ -3,7 +3,7 @@
 ## About Me
 *  Computer Engineer (UNLP, Argentina)
 *  Aspiring Data Scientist
-*  Interests: Machine Learning, Sports Analytics, Blockchain.
+*  Interests: *Machine Learning, Sports Analytics, Blockchain.*
 *  Love football!
 
 ## Portfolio
@@ -29,6 +29,13 @@ This project cleans and concatenates the results of IT salary surveys made by sy
 *keywords: python, jupyter notebook, pandas, matplotlib, soccer, robocup, robocupsimdata, spatiotemporal*
 
 This project works with spatiotemporal soccer data. The dataset used is from RoboCupSimData project ([Paper](https://arxiv.org/pdf/1711.01703.pdf)) ([Files Overview](http://oliver.obst.eu/data/RoboCupSimData/overview.html)). 
+
+### Machine Learning Mini Projects
+[GitHub](https://github.com/matiasmascioto/ml_mini_projects)
+
+*keywords: python, jupyter notebook, pandas, scikit-learn, tensorflow, pyplot
+
+Some mini-projects to practice *machine learning*, while reading *Hands-On Machine Learning with Scikit-Learn & TensorFlow*.
 
 ## Contact
 *  Mail: matiasmascioto@hotmail.com
