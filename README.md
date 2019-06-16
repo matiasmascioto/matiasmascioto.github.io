@@ -1,8 +1,12 @@
 # Matias Mascioto
 
 ## About Me
-*  Computer Engineer (UNLP, Argentina)
-*  Aspiring Data Scientist
+*  Computer Engineer (UNLP, Argentina) and Data Ingelligence Specialist (UNLP, Argentina)
+*  Data Scientist
+*  Technical Skills:
+   * Programming Languages: *Python (Pandas, GeoPandas, Shapely, PyMongo, sklearn), C*
+   * Databases: *SQL, MongoDB*
+   * Others: *QGIS, Dash (Plotly)*
 *  Interests: *Machine Learning, Sports Analytics, Blockchain.*
 *  Love football!
 
