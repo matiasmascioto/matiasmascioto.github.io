@@ -2,7 +2,7 @@
 
 ## About Me
 *  Computer Engineer (UNLP, Argentina) and Data Ingelligence Specialist (UNLP, Argentina)
-*  Data Scientist
+*  Data Engineer - Data Scientist
 *  Technical Skills:
    * Programming Languages: *Python (Pandas, GeoPandas, Shapely, PyMongo, sklearn), C*
    * Databases: *SQL, MongoDB*
@@ -42,6 +42,6 @@ This project works with spatiotemporal soccer data. The dataset used is from Rob
 Some mini-projects to practice *machine learning*, while reading *Hands-On Machine Learning with Scikit-Learn & TensorFlow*.
 
 ## Contact
-*  Mail: matiasmascioto@hotmail.com
+*  [Upwork Profile](https://www.upwork.com/fl/matiasm27)
 *  [LinkedIn](https://www.linkedin.com/in/juan-matias-mascioto/)
 
