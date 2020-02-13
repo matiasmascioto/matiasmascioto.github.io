@@ -42,6 +42,8 @@ This project works with spatiotemporal soccer data. The dataset used is from Rob
 Some mini-projects to practice *machine learning*, while reading *Hands-On Machine Learning with Scikit-Learn & TensorFlow*.
 
 ## Contact
-*  [Upwork Profile](https://www.upwork.com/fl/matiasm27)
 *  [LinkedIn](https://www.linkedin.com/in/juan-matias-mascioto/)
+*  [Upwork Profile](https://www.upwork.com/fl/matiasm27)
+*  [Medium](https://medium.com/@matiasmascioto)
+
 
