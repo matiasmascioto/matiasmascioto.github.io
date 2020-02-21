@@ -4,9 +4,11 @@
 *  Computer Engineer (UNLP, Argentina) and Data Ingelligence Specialist (UNLP, Argentina)
 *  Data Engineer - Data Scientist
 *  Technical Skills:
-   * Programming Languages: *Python (Pandas, GeoPandas, Shapely, PyMongo, sklearn), C*
+   * Programming Languages: *Python, C*
    * Databases: *SQL, MongoDB*
-   * Others: *QGIS, Dash (Plotly)*
+   * Cloud: *AWS, GCP*
+   * Data visualization: Dash (Plotly), Google Data Studio, Tableau, Python (seaborn, plotly)
+   * Others: *QGIS, Git*
 *  Interests: *Machine Learning, Sports Analytics, Blockchain.*
 *  Love football!
 
@@ -40,6 +42,9 @@ This project works with spatiotemporal soccer data. The dataset used is from Rob
 *keywords: python, jupyter notebook, pandas, scikit-learn, tensorflow, pyplot*
 
 Some mini-projects to practice *machine learning*, while reading *Hands-On Machine Learning with Scikit-Learn & TensorFlow*.
+
+## Publications
+* *ANTENUCCI, PEDRO, MASCIOTO, JUAN MATÍAS, PAGE, MARÍA. PASO 2017 en la provincia de Buenos Aires: el recuento provisorio explicado. Revista SAAP. Publicación de Ciencia Política de la Sociedad Argentina de Análisis Político. ISSN: 1666-7883. Disponible en: https://www.redalyc.org/articulo.oa?id=387154402008*
 
 ## Contact
 *  [LinkedIn](https://www.linkedin.com/in/juan-matias-mascioto/)
