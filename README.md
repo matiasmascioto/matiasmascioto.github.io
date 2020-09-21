@@ -48,7 +48,5 @@ Some mini-projects to practice *machine learning*, while reading *Hands-On Machi
 
 ## Contact
 *  [LinkedIn](https://www.linkedin.com/in/juan-matias-mascioto/)
-*  [Upwork Profile](https://www.upwork.com/fl/matiasm27)
-*  [Medium](https://medium.com/@matiasmascioto)
 
 
